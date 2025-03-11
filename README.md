@@ -2,7 +2,7 @@
 
 <samp>
   
-Data Analysts, researcher, developer and gamer
+Data Analyst, researcher, developer and gamer
 Currently working with Seacom.
 
 ![banner](./Data.PNG)
