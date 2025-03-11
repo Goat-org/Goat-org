@@ -5,5 +5,5 @@
 Data Analysts, researcher, developer and gamer
 Currently working with Seacom.
 
-![banner](./Data.png)
+![banner](./Data.PNG)
 </samp>
